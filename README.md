@@ -11,6 +11,10 @@ This project is a **Sentiment Analysis Application** where users can input revie
 - **Frontend**: A React-based web application to interact with the API and display sentiment predictions.
 - **Deployment**: The API is deployed using Docker and the frontend is served via React.
 
+- Here you can access the deployed project :
+
+https://sentiment-api-ch2dwq7kgu3dopuxwndzyx.streamlit.app/
+
 ## Project Structure
 
 ```
